@@ -1,0 +1,10 @@
+- BeanFashionUIT2 is an e-commerce website, having built by using reactjs for client user and admin user frontend, and nestjs for backend. PostgreSQL is used for storage database.
+- Teamsize: 5 members
+- My role: full-stack developer
+- My responsibilty: 
+    - Frontend: design information page in footer, contact page, search product, pagination in client-website, and manage product page in admin-website.
+    - Backend: design api for manage product, manage contact for user include CRUD product data, search data, pagination.
+- Repositories:
+    - [Client User Frontend](https://github.com/Devbeee/FrontEndFashionUITV2)
+    - [Admin User Frontend](https://github.com/Devbeee/AdminFashsionUITV2)
+    - [Backend](https://github.com/Devbeee/BackEndFashionUITV2)
