@@ -1,4 +1,4 @@
-- BeanFashionUIT2 is an e-commerce website, having built by using reactjs for client user and admin user frontend, and nestjs for backend. PostgreSQL is used for storage database.
+- An e-commerce website allows users to browse, search, purchase products, and complete orders, while administrators can manage categories, products, users, and view statistics.
 - Teamsize: 5 members
 - My role: full-stack developer
 - My responsibilty: 
