@@ -1,0 +1,9 @@
+[submodule "BackEndFashionUITV2"]
+	path = BackEndFashionUITV2
+	url = https://github.com/Devbeee/BackEndFashionUITV2.git
+[submodule "FrontEndFashionUITV2"]
+	path = FrontEndFashionUITV2
+	url = https://github.com/Devbeee/FrontEndFashionUITV2.git
+[submodule "AdminFashsionUITV2"]
+	path = AdminFashsionUITV2
+	url = https://github.com/Devbeee/AdminFashsionUITV2.git
