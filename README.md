@@ -4,7 +4,3 @@
 - My responsibilty: 
     - Frontend: design information page in footer, contact page, search product, pagination in client-website, and manage product page in admin-website.
     - Backend: design api for manage product, manage contact for user include CRUD product data, search data, pagination.
-- Repositories:
-    - [Client User Frontend](https://github.com/Devbeee/FrontEndFashionUITV2)
-    - [Admin User Frontend](https://github.com/Devbeee/AdminFashsionUITV2)
-    - [Backend](https://github.com/Devbeee/BackEndFashionUITV2)
